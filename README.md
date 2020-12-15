@@ -3,6 +3,7 @@
 This app created based on the requirements described in the "Extenda - GCP - Practical task.pdf" file.
 
 Basic description:
+
 This is a backend service running in Cloud Run​, tracking Cloud Storage bucket, and streaming data to BigQuery.
 
 The app uses Application Default Credentials (ADC). 
